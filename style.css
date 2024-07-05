@@ -30,7 +30,6 @@ header nav .logo {
 header nav ul {
   display: flex;
   width: 50%;
-  background-color: #e95317;
   justify-content: space-evenly;
 }
 header nav ul li {
