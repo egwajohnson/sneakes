@@ -61,13 +61,10 @@ header nav ul li a {
     justify-content: space-between;
     align-items: center;
     box-shadow: 0 8px 10px rgba(0,0,0,0.1);
-    /* background-color: aquamarine; */
 } 
 
 .container .snick {
-    /* background-color: red; */
     width: 45%;
-    /* background-color: red; */
 }
 .container .snick .sneak{
    width: 100%;
@@ -91,7 +88,6 @@ header nav ul li a {
     padding: 5px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    /* background-color: #e98b17; */
 }
 .container .snick .fix img{
     max-width: 250px;
@@ -101,7 +97,6 @@ header nav ul li a {
 }
 .container .side-text {
     width: 45%;
-    /* background-color: blueviolet; */
 }
 .container .side-text h3{
     color: #f78b20;
@@ -117,7 +112,6 @@ header nav ul li a {
     margin-bottom: 30px;
 }
 .container .side-text .price{
-    /* background-color: red; */
     font-size: 2rem;
     font-weight: bold;
     display: flex;
@@ -138,11 +132,9 @@ header nav ul li a {
     margin-bottom: 20px;
 }
 .container .side-text .down-btn{
-    /* background-color: red; */
     display: flex;
     width: 100%;
     justify-content: space-between;
-    /* height: 5vh; */
     align-items: center;
     padding: 3px 10px;
 }
